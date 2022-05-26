@@ -9,7 +9,7 @@ Hi, I am hassan, I am a computer engineer interested in working on robotics, UAV
 ## Teaching 
 
 Spring 2022 [UNLV Spring Camp Robotics]().<br>
-Summer 2022 [UNLV Summer Robotics](Adamh-Tech.github.io/blob/main/Teach.md).
+Summer 2022 [UNLV Summer Robotics](Adamh-Tech.github.io/Teach.md).
 ## Contact
 
 adamh1@unlv.nevada.edu
