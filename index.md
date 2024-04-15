@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Hassan Adam's Embedded/Hardware Engineering Portfolio"
+---
 # Hassan Adam 
 
 ## Background  
