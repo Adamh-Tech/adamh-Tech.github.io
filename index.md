@@ -1,20 +1,15 @@
 ---
 layout: page
-title: "Hassan Adam's Embedded/Hardware Engineering Portfolio"
+title: "Hassan Adam - Embedded/Hardware Engineer Portfolio"
 ---
 
-# Hassan Adam 
+# Welcome to My Portfolio
 
-## Background  
+I am Hassan Adam, an aspiring Embedded and Hardware Engineer currently pursuing my Master of Science in Electrical Engineering at the University of Nevada, Las Vegas. This portfolio showcases my projects, skills, and professional experiences.
 
-Hi, I am hassan, I am a computer engineer interested in working on robotics, UAVs, Embedded Systems, Machine Learning, and deep learning. I am an Electrical Engineering master's student at the University of Nevada Las Vegas. Where I also received my bachelor's in computer engineering.
-
-## Academic Papers 
-
-## Teaching 
-
-Spring 2022 [UNLV Spring Camp Robotics]().<br>
-Summer 2022 [UNLV Summer Robotics](Adamh-Tech.github.io/Teach.md).
-## Contact
-
-adamh1@unlv.nevada.edu
+## Navigation
+- [Projects](./projects.md)
+- [Skills](./skills.md)
+- [Education](./education.md)
+- [Work Experience](./experience.md)
+- [Contact](./contact.md)
