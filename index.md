@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hassan Adam - Embedded/Hardware Engineer Portfolio"
+title: "Main Portfolio"
 ---
 
 # Welcome to My Portfolio
