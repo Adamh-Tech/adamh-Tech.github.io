@@ -1,10 +1,12 @@
+# Site settings
 title: Hassan Adam Portfolio
-email: Hadam6424@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://adamh-Tech.github.io" # the base hostname & protocol for your site
-github_username: adamh-Tech
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "http://adamh-Tech.github.io"  # the base hostname & protocol for your site
+
 # Build settings
 markdown: kramdown
-theme: minima # or any other theme you prefer
+theme: minima  # or any other theme you prefer
+
+# Plugins
 plugins:
   - jekyll-feed
