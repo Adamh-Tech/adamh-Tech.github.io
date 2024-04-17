@@ -1,15 +1,11 @@
+---
+layout: page
+title: "Contact "
+---
 
-### Unordered
+# Contact Me
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+Feel free to connect with me for collaboration or if you have any questions:
 
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+- **Email**: [Hadam6424@gmail.com](mailto:Hadam6424@gmail.com)
+- **LinkedIn**: [Insert LinkedIn URL](https://www.linkedin.com/in/hassan-adam-cpe/)

@@ -1,15 +1,14 @@
+---
+layout: page
+title: "Education"
+---
 
-### Unordered
+# Education
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+## Master of Science in Electrical Engineering
+### University of Nevada, Las Vegas
+- **Expected Graduation**: Fall 2024
 
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+## Bachelor of Engineering in Computer Engineering
+### University of Nevada, Las Vegas
+- **Graduation**: May 2022

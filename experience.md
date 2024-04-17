@@ -1,15 +1,16 @@
+---
+layout: page
+title: "Professional Experience"
+---
 
-### Unordered
+# Work Experience
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+## Teacher, UNLV STEM Camp
+### University of Nevada, Las Vegas
+- **Period**: Spring 2022 - Current
+- Teaching fundamentals of programming, math, Arduino technology, and robotics to middle school students.
 
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+## Web Designer
+### University of Nevada, Las Vegas
+- **Period**: Spring 2023 - Current
+- In charge of website development for the engineering department.
