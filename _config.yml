@@ -3,13 +3,13 @@ title: Hassan Adam Portfolio
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "http://adamh-Tech.github.io"  # the base hostname & protocol for your site
 # Build settings
-markdown: kramdown  # Specify kramdown as your Markdown processor
-theme: hacker  # Local theme setup, optional if using remote_theme
+markdown: kramdown
+theme: null  # When using remote_theme, set theme to null
 
 # Remote Theme
-remote_theme: pages-themes/hacker@v0.2.0  # Specifies the GitHub Pages remote theme to use
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Plugins
 plugins:
-  - jekyll-remote-theme  # Enables the use of remote themes
-  - jekyll-feed  # Example of adding another plugin
+  - jekyll-remote-theme
+  - jekyll-feed
