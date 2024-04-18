@@ -1,5 +1,3 @@
-# Welcome to My Portfolio
-
 I am Hassan Adam, an aspiring Embedded and Hardware Engineer currently pursuing my Master of Science in Electrical Engineering at the University of Nevada, Las Vegas. This portfolio showcases my projects, skills, and professional experiences.
 
 # Education
