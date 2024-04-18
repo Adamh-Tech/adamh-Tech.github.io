@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Main"
+title: "Portfolio"
 ---
 # Introduction 
 Hi, I am Hassan Adam, and I am pursuing a Master of Science in Electrical Engineering to become an Embedded Engineer. I'm particularly drawn to Embedded and Intelligent Systems, Digital System Design, Machine Learning, Cryptography, Internet of Things, and Distributed Systems.
