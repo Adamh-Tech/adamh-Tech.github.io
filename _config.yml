@@ -5,6 +5,6 @@ url: "http://adamh-Tech.github.io" # the base hostname & protocol for your site
 github_username: adamh-Tech
 # Build settings
 markdown: kramdown
-theme: minima # or any other theme you prefer
+theme: hacker # or any other theme you prefer
 plugins:
   - jekyll-feed
