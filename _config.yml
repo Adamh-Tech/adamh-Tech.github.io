@@ -1,7 +1,5 @@
 title: Hassan Adam's  Portfolio
 email: Hadam6424@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is Hassan Adam's professional portfolio as an Embedded/Hardware Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://adamh-Tech.github.io" # the base hostname & protocol for your site
 github_username: adamh-Tech
