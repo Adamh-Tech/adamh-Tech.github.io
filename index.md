@@ -8,7 +8,7 @@ Hi, I am Hassan Adam, and I am pursuing a Master of Science in Electrical Engine
 ## Education
 ### Master of Science in Electrical Engineering
 - **Institution**: University of Nevada, Las Vegas
-- **Expected Graduation**: Fall 2024
+- **Expected Graduation**: Spring 2025
 
 ### Bachelor of Engineering in Computer Engineering
 - **Institution**: University of Nevada, Las Vegas
