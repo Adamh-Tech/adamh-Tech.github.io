@@ -1,7 +1,7 @@
 title: Hassan Adam's  Portfolio
 email: Hadam6424@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://adamh-Tech.github.io" # the base hostname & protocol for your site
+url: "https://adamh-Tech.github.io" # the base hostname & protocol for your site
 github_username: adamh-Tech
 
 # Build settings
