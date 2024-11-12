@@ -6,6 +6,6 @@ github_username: adamh-Tech
 
 # Build settings
 markdown: kramdown
-theme: minima # or any other theme you prefer
+theme: jekyll-theme-cayman # changed theme to jekyll-theme-cayman
 plugins:
   - jekyll-feed
